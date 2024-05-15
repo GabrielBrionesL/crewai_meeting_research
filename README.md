@@ -1,5 +1,5 @@
 # crewai_meeting_research
-Build CrewAI Agents to perform research tasks using analytical tools prior to a meeting, based on the prepare for a meeting example by CrewAI.
+Build CrewAI Agents to perform research tasks using analytical tools prior to a meeting.
 
 CrewAI is a framework for orchestrating autonomous AI agents to tackle complex tasks. Agents within CrewAI operate in a loop, continuously processing information and executing actions until they reach an output that satisfies the agent. 
 
